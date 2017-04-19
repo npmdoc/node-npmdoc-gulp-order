@@ -1,9 +1,14 @@
-# api documentation for  [gulp-order (v1.1.1)](https://github.com/sirlantis/gulp-order)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-order.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-order) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-order.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-order)
+# npmdoc-gulp-order
+
+#### api documentation for  [gulp-order (v1.1.1)](https://github.com/sirlantis/gulp-order)  [![npm package](https://img.shields.io/npm/v/npmdoc-gulp-order.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-gulp-order) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-gulp-order.svg)](https://travis-ci.org/npmdoc/node-npmdoc-gulp-order)
+
 #### The gulp plugin `gulp-order` allows you to reorder a stream of files using the same syntax as of `gulp.src`.
 
-[![NPM](https://nodei.co/npm/gulp-order.png?downloads=true)](https://www.npmjs.com/package/gulp-order)
+[![NPM](https://nodei.co/npm/gulp-order.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/gulp-order)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-order/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-gulp-order_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-order/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-gulp-order/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-gulp-order/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-gulp-order/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-gulp-order/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-gulp-order/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "Marcel Jackwerth",
-        "email": "marceljackwerth@gmail.com",
         "url": "http://twitter.com/sirlantis"
     },
     "bugs": {
@@ -59,13 +63,11 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "sirlantis",
-            "email": "marceljackwerth@gmail.com"
+            "name": "sirlantis"
         }
     ],
     "name": "gulp-order",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/sirlantis/gulp-order.git"
@@ -77,16 +79,6 @@
     "version": "1.1.1"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module gulp-order](#apidoc.module.gulp-order)
-
-
-
-# <a name="apidoc.module.gulp-order"></a>[module gulp-order](#apidoc.module.gulp-order)
 
 
 
